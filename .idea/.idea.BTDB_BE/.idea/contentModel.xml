@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\m.rychvalsky\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\m.rychvalsky\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\m.rychvalsky\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_BTDB_BE.1114484024.00" t="ExcludeRecursive" />
+    <e p="C:\Users\m.rychvalsky\source\repos\WebApplication1_v02" t="IncludeFlat">
+      <e p="BTDB_BE.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApplication1" t="IncludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="BTDB_BE.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="DataTableController.cs" t="Include" />
+          <e p="VisitorController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="BuilderModelObj.cs" t="Include" />
+          <e p="CustomObj.cs" t="Include" />
+          <e p="InFileCol.cs" t="Include" />
+          <e p="ModelObj.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="BTDB_BE.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="CustDataServices.cs" t="Include" />
+          <e p="ICustDataServices.cs" t="Include" />
+          <e p="ITableDataServices.cs" t="Include" />
+          <e p="TableDataServices.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
